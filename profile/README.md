@@ -11,12 +11,6 @@ Welcome to **Respinar**, a GitHub organization focused on developing modern, lig
 - 🧩 **Contao Bundles**  
   Clean, modular extensions and content elements to power up your Contao-based websites.
 
-- 🌐 **Web Development Tools**  
-  Utilities and packages designed to improve SEO, performance, and developer experience.
-
-- ⚙️ **Automation & CI/CD**  
-  Scripts, templates, and workflows that streamline deployment and maintenance.
-
 ---
 
 ## 📦 Featured Projects
